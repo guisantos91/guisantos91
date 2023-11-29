@@ -1,11 +1,30 @@
-### Welcome 👋
+# Welcome 👋
 ##
 
-  <div align="center">
-  <a href="https://github.com/Gui113893">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gui113893&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui113893&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Gui113893&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      media="(prefers-color-scheme: tokyonight)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Gui113893&show_icons=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Gui113893&show_icons=true&include_all_commits=true&count_private=true" />
+  </picture>
 
+  <picture height="150em">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui113893&layout=compact&langs_count=8&theme=tokyonight"
+      media="(prefers-color-scheme: tokyonight)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui113893&layout=compact&langs_count=8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui113893&layout=compact&langs_count=8" />
+  </picture>
+</div>
 
 
