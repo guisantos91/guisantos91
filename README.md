@@ -10,7 +10,7 @@ I'm a Computer Engineering Student at Universidade de Aveiro, currently, in my s
 - Software Development 👨‍💻;
 
 <div align="center">
-  <picture>
+  <picture height="150em">
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=Gui113893&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
       media="(prefers-color-scheme: dark)"
