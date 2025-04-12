@@ -20,6 +20,6 @@ Hi, I'm Guilherme Santos, a third-year Informatics Engineering student at Univer
 
 ## Contact
 - GitHub: [guisantos91](https://github.com/guisantos91)
-- Email: [gui2891@outlook.pt](gui2891@outlook.pt)
+- Email: gui2891@outlook.pt
 
 
