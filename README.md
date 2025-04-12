@@ -1,19 +1,25 @@
-# Welcome 👋
-I'm a Computer Engineering Student at Universidade de Aveiro, currently, in my third year.
+# Guilherme Santos
+Hi, I'm Guilherme Santos, a third-year Informatics Engineering student at Universidade de Aveiro. I'm passionate about software development, cibersecurity, machine learning, and creating innovative solutions to real-world problems.
 
-<div align="center">
-  <picture height="150em">
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guisantos91&layout=compact&langs_count=8&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guisantos91&layout=compact&langs_count=8"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisantos91&layout=compact&langs_count=8" />
-  </picture>
-</div>
+## Skills
+- Python
+- Java
+- TypeScript
+- Full Stack Development
 
+## Projects
+- **SmartTLS:** Winning solution for Aveiro Tech City Hackathon 2024. Developed a multi-agent reinforcement learning system to optimize traffic light control in Aveiro. [Link](https://github.com/guisantos91/SmartTLS)
+- **FoodFlow:** Final project for Introduction to Software Engineering. Created an event-driven full stack application with real-time statistics. [Link](https://github.com/guisantos91/FoodFlow)
+- **SIO-Project:** Final project for Information and Organizational Security. Developed a secured documents repository [Link](https://github.com/guisantos91/SIO-Project)
+
+## Achievements
+- 🏆 Winner of Aveiro Tech City Hackathon 2024 (SmartTLS Project)
+
+## Education
+- Computer Engineering, Universidade de Aveiro (Third Year)
+
+## Contact
+- GitHub: [guisantos91](https://github.com/guisantos91)
+- Email: [gui2891@outlook.pt](gui2891@outlook.pt)
 
 
