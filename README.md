@@ -64,8 +64,11 @@ I’m a **1st-year Master's in Cibersecurity** student at **Universidade de Avei
 <a name="education"></a>
 ## 🎓 Education
 
-**B.S. Informatics Engineering**, Universidade de Aveiro  
-_Expected Graduation: July 2025_
+- **MSc Cibersecurity**, Universidade de Aveiro  
+_Expected Gradutation: July 2027_
+
+- **BSc Informatics Engineering**, Universidade de Aveiro  
+_Graduated: July 2025_
 
 ---
 <a name="contact"></a>
