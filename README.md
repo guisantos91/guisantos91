@@ -31,20 +31,19 @@ I’m a **1st-year Master's in Cybersecurity** student at **Universidade de Avei
 ---
 <a name="projects"></a>
 ## 🚀 Projects
+### FixAI  
+> _Final project of the Bachelor's degree in Informatic Engineering, Universidade of Aveiro_  
+- **Description:** AI-driven platform engineered to optimise urban issue detection and resolution within smart city frameworks.  
+- **Tech:** FastAPI • Kubernetes • Cassandra • Kafka  
+- 🔗 [GitHub Repo](https://github.com/guisantos91/PI-FixAI)
+
+---
 
 ### SmartTLS  
 > _Winning solution @ Aveiro Tech City Hackathon 2024_  
 - **Description:** Multi-agent reinforcement learning system optimizing traffic lights in Aveiro for smoother flow and reduced waiting times.  
 - **Tech:** Python • TensorFlow • SUMO • Docker  
 - 🔗 [GitHub Repo](https://github.com/guisantos91/SmartTLS)
-
----
-
-### FoodFlow  
-> _Final project for Introduction to Software Engineering course_  
-- **Description:** Event-driven full‑stack web app with real‑time order analytics and interactive dashboards.  
-- **Tech:** TypeScript • SpringBoot • React • WebSockets  
-- 🔗 [GitHub Repo](https://github.com/guisantos91/FoodFlow)
 
 ---
 
